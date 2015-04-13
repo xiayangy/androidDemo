@@ -1,0 +1,5 @@
+/Users/xiayangyang/study/demo/intro_android_demo/app/build/intermediates/classes/debug
+/Users/xiayangyang/study/demo/intro_android_demo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-95f91ac7e8d2aaf030477563e59430a3721360f9.jar
+/Users/xiayangyang/study/demo/intro_android_demo/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-5420923937df85b0f41935bcad97a4c676b23c65.jar
+/Users/xiayangyang/study/demo/intro_android_demo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-eed7189dd854795eb09d0fd13e33e74588246df3.jar
+/Users/xiayangyang/study/demo/intro_android_demo/app/build/intermediates/pre-dexed/debug/classes-89dc5fc6fc4fd84a344bd3db7bba9bb0ab3b85a4.jar
